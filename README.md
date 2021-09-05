@@ -1,1 +1,1 @@
-# statistics
+# statistics-udemy course
